@@ -6,3 +6,4 @@ scikit-learn
 streamlit
 torch
 tensorflow
+transformers
