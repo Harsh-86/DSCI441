@@ -7,4 +7,3 @@ streamlit
 torch
 tensorflow
 transformers
-warnings
