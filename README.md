@@ -32,4 +32,19 @@ The objective is to classify each tweet as either **positive** or **negative** b
 
 5. **Evaluation**  
    - Measure model performance using accuracy, confusion matrix, and classification report.
-   - Plot the training loss over epochs to monitor convergence.
+   - Plot the training loss over epochs to monitor convergence.'
+
+## 📈 Results
+   - The model was able to achieve high accuracy on the sentiment classification task.
+   - Training and validation losses were plotted to observe model performance over epochs.
+
+## 📂 File Structure
+   - BERT.ipynb — Main Jupyter Notebook containing all the code for loading data, preprocessing, model training, and evaluation.
+   - data.csv — Dataset used (you’ll need to provide this file in the correct path).
+
+
+## ✨ Future Improvements
+   - Hyperparameter tuning (learning rate, batch size).
+   - Incorporating more advanced techniques like learning rate warm-up.
+   - Exploring larger pre-trained models such as bert-large-uncased.
+   - Data augmentation or synthetic data generation for better generalization.
