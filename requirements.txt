@@ -6,4 +6,4 @@ streamlit
 torch
 tensorflow
 transformers
-matplotlib.pyplot
+matplotlib
