@@ -1,11 +1,6 @@
 matplotlib
 numpy
-os
 pandas
-re
-scikit-learn
 seaborn
-string
-tensorflow
-torch
-transformers
+scikit-learn
+streamlit
